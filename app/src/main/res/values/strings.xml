@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">YoWeather</string>
     <string name="dark_sky_api_key">d526869be1d471a5552f86d862f38eec</string>
+    <string name="powered_by_dark_sky"><a href="https://darksky.net/poweredby">Powered by Dark Sky</a></string>
 </resources>
